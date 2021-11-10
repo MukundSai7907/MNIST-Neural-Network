@@ -1,2 +1,2 @@
 # MNIST-Neural-Network
-A Neural Network for MNIST image classification
+This is an implementation of a Neural Network from scratach for MNIST image classification
